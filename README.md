@@ -1,16 +1,7 @@
-# konversi_suhu_2
+MI2F MUHAMMAD ZAKI 2031710106
 
-A new Flutter project.
+HASIL
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (307)](https://user-images.githubusercontent.com/89893117/157588969-d8bcb901-9c00-418c-a2aa-0fc254227b92.png)
+![Screenshot (308)](https://user-images.githubusercontent.com/89893117/157588973-3935ff18-775b-429c-978f-56b2d409340f.png)
+![Screenshot (309)](https://user-images.githubusercontent.com/89893117/157588975-c358cb26-af9a-4776-8c4a-71f22dda369a.png)
